@@ -20,3 +20,5 @@ class Pie:
     def fullname(self):
         del self.name
         del self.surname
+
+# this sucks 
